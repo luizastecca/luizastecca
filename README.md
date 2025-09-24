@@ -2,8 +2,9 @@
 ## Bem Vindos ao meu GitHub!
 ![Gif Macaco](https://media1.tenor.com/m/lER2_kKTywYAAAAd/monkey-adult-swim.gif)
 
-Meu nome é Luiza e tenho 17 anos.
-:purple_heart: Eu amo filmes, séries e livros.
+Meu nome é Luiza e tenho 17 anos
+
+💜 Eu amo filmes, séries e livros.
 
 :heavy_check_mark: `Atualmente:`cursando o Ensino Médio no SESI - SP e em paralelo estou cursando o técnico de Desenvolvimento de Sistemas, no SENAI. 
 
