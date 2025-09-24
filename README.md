@@ -23,4 +23,5 @@ No entanto, apesar de tudo, cada desafio se transforma em uma nova descoberta e 
 
 
 :heavy_check_mark: `Objetivos:` Concluir o Ensino Médio e o Curso, adquirindo todos os possíveis aprendizados! Fazer uma faculdade que me agrade e me de uma vida próspera!
+
 :heavy_check_mark: O caminho ainda é longo, mas tenho certeza que no futuro isso só irá gerar conhecimento e coisas boas!
